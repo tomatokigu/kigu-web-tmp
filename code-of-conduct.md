@@ -4,8 +4,6 @@ title:     Code of Conduct
 subtitle:  Community guidelines
 permalink: /code-of-conduct/
 ---
-# Code of Conduct
-
 ## Our Pledge
 {: .subtitle .is-3}
 
