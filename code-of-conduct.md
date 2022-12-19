@@ -5,7 +5,6 @@ subtitle:  Community guidelines
 permalink: /code-of-conduct/
 ---
 ## Our Pledge
-{: .subtitle .is-3}
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
@@ -18,7 +17,6 @@ We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
 ## Our Standards
-{: .subtitle .is-3}
 
 Examples of behavior that contributes to a positive environment for our
 community include:
@@ -45,7 +43,6 @@ Examples of unacceptable behavior include:
 {: .list}
 
 ## Enforcement Responsibilities
-{: .subtitle .is-3}
 
 Community leaders are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
@@ -58,7 +55,6 @@ not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
 ## Scope
-{: .subtitle .is-3}
 
 This Code of Conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
@@ -67,7 +63,6 @@ posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
 ## Enforcement
-{: .subtitle .is-3}
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement by
@@ -78,13 +73,11 @@ All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
 ## Enforcement Guidelines
-{: .subtitle .is-3}
 
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
 
 ### 1. Correction
-{: .subtitle .is-4}
 
 **Community Impact**: Use of inappropriate language or other behavior deemed
 unprofessional or unwelcome in the community.
@@ -94,7 +87,6 @@ clarity around the nature of the violation and an explanation of why the
 behavior was inappropriate. A public apology may be requested.
 
 ### 2. Warning
-{: .subtitle .is-4}
 
 **Community Impact**: A violation through a single incident or series
 of actions.
@@ -107,7 +99,6 @@ like social media. Violating these terms may lead to a temporary or
 permanent ban.
 
 ### 3. Temporary Ban
-{: .subtitle .is-4}
 
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
@@ -119,7 +110,6 @@ with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 
 ### 4. Permanent Ban
-{: .subtitle .is-4}
 
 **Community Impact**: Demonstrating a pattern of violation of community
 standards, including sustained inappropriate behavior,  harassment of an
@@ -129,7 +119,7 @@ individual, or aggression toward or disparagement of classes of individuals.
 the community.
 
 ## Attribution
-{: .subtitle .is-3 .has-text-grey-light}
+{: .has-text-grey-light}
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.0, available at
